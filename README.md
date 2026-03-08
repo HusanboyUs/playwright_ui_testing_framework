@@ -303,6 +303,3 @@ jobs:
 
 ---
 
-## License
-
-MIT © your-org
